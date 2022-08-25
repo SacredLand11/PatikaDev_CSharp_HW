@@ -1,0 +1,16 @@
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\PatikaDevCSharpHW.exe
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\PatikaDevCSharpHW.deps.json
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\PatikaDevCSharpHW.runtimeconfig.json
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\PatikaDevCSharpHW.runtimeconfig.dev.json
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\PatikaDevCSharpHW.dll
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\ref\PatikaDevCSharpHW.dll
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\bin\Debug\net5.0\PatikaDevCSharpHW.pdb
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.AssemblyInfoInputs.cache
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.AssemblyInfo.cs
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.csproj.CoreCompileInputs.cache
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.dll
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\ref\PatikaDevCSharpHW.dll
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.pdb
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.genruntimeconfig.cache
+C:\Users\aydin\source\repos\PatikaDevCSharpHW\obj\Debug\net5.0\PatikaDevCSharpHW.csproj.AssemblyReference.cache
