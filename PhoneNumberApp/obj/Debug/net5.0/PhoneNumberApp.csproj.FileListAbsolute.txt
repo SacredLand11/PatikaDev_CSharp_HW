@@ -1,0 +1,16 @@
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\PhoneNumberApp.exe
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\PhoneNumberApp.deps.json
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\PhoneNumberApp.runtimeconfig.json
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\PhoneNumberApp.runtimeconfig.dev.json
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\PhoneNumberApp.dll
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\ref\PhoneNumberApp.dll
+C:\Users\aydin\Desktop\PhoneNumberApp\bin\Debug\net5.0\PhoneNumberApp.pdb
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.AssemblyInfo.cs
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.dll
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\ref\PhoneNumberApp.dll
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.pdb
+C:\Users\aydin\Desktop\PhoneNumberApp\obj\Debug\net5.0\PhoneNumberApp.genruntimeconfig.cache
